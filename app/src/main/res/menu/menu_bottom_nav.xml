@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_orders" android:title="سفارشات" />
+    <item android:id="@+id/nav_customers" android:title="مشتریان" />
+    <item android:id="@+id/nav_parts" android:title="قطعات" />
+    <item android:id="@+id/nav_reports" android:title="گزارشات" />
+</menu>
